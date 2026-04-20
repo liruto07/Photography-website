@@ -34,4 +34,9 @@ header {
     gap: 10px;
 }
 
+.photos img{
+    width: 30%;
+    border: 3px solid #fff;
+}
+
 
