@@ -116,6 +116,9 @@ section:hover {
     border-radius: 50%;
     object-fit: cover;
     margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
 } 
 
 .contact {
@@ -176,6 +179,7 @@ form button:hover {
 form button:active {
     background-color: #e87f07;
 }
+
 
 
 
