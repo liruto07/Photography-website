@@ -98,6 +98,8 @@ section:hover {
     padding: 20px;
     text-align: center;
     text-decoration: none;
+    align-items: center;
+    display: flex;
 }
 
 .bio a {
@@ -182,14 +184,7 @@ form button:active {
     background-color: #e87f07;
 }
 
-.about me img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-top: 20px;
-    margin: center;
-}
+
 
 
 
