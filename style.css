@@ -97,6 +97,9 @@ section:hover {
     display: flex;
 }
 
+.bio header{
+    text-align: center;
+}
 .bio a {
     color: #333;
     text-decoration: none;
