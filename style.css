@@ -45,4 +45,10 @@ header {
     text-decoration: none;
 }
 
+.bio a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 
