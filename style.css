@@ -51,4 +51,8 @@ header {
     font-weight: bold;
 }
 
+.bio a:hover {
+    color: #555;
+}
+
 
